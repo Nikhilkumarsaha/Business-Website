@@ -69,10 +69,10 @@ export const materials = [
   {
     number: "02",
     name: "Coarse stone",
-    size: "3/4 & 5/8 inch",
+    size: "3/4 inch",
     description: "Strong and durable aggregate for major structural work.",
     image: "/images/product-three-quarter.jpg",
-    alt: "3/4 and 5/8 inch stone chips",
+    alt: "3/4 inch stone chips",
   },
   {
     number: "03",
